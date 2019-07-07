@@ -35,3 +35,12 @@ min_to_24 = min_to_24 // 1
 
 print ("min_to_24 is ", int(min_to_24))
 
+released = {
+		"iphone" : 2007,
+		"iphone 3G" : 2008,
+		"iphone 3GS" : 2009,
+		"iphone 4" : 2010,
+		"iphone 4S" : 2011,
+		"iphone 5" : 2012
+	}
+print (released)
